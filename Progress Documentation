@@ -4,10 +4,12 @@ ROADMAP:
 (ii)  Regularization techniques like Droput and finetuning/debugging neural networks. 
 (iii) Which activation functions works best and why
 (iv)  preprocessing techniques like how should and should not be the weights in Neurel network be initialized
+
 2. Understand and implement CNN
 3. Understand and implement RNN 
 4. Understand and implement GANs
-5. Write an awesome application.
+5. Understand and implement AutoEncoders
+6. Write an awesome application.
 It is expected to learn and discover new tools for efficient and easy implementation of the above along the way. This includes coming
 across frameworks such as Keras, Theano, Lua, scipy, Pandas, etc.
 
