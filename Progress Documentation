@@ -6,7 +6,8 @@ ROADMAP:
 (iv)  preprocessing techniques like how should and should not be the weights in Neurel network be initialized
 
 2. Understand and implement CNN
-3. Understand and implement RNN 
+3. Understand and implement RNN
+Implemented LSTM as a character-level language model
 4. Understand and implement GANs
 5. Understand and implement AutoEncoders
 6. Write an awesome application.
