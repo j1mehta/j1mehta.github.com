@@ -1,17 +1,29 @@
-ROADMAP:
+ROADMAP: Keeping abreast with the state-of-the-art
+
+SUPERVISED LEARNING
 1. Understand and implement Neural Networks thoroughly. Especially back propagation. This includes studying the state-of-the-art 
-(i)   optimization techiniques like ADAM, RMSPROP
-(ii)  Regularization techniques like Droput and finetuning/debugging neural networks. 
-(iii) Which activation functions works best and why
-(iv)  preprocessing techniques like how should and should not be the weights in Neurel network be initialized
+  (i)   optimization techiniques like ADAM, RMSPROP 
+  (ii)  Regularization techniques like Droput and finetuning/debugging neural networks. 
+  (iii) Which activation functions works best and why
+  (iv)  preprocessing techniques like how should and should not be the weights in Neurel network be initialized
 
 2. Understand and implement CNN
-3. Understand and implement RNN
-Implemented LSTM as a character-level language model
+
+3. Understand and implement RNN: LSTM and GRU
+   (i)Implemented LSTM as a character-level language model
+
 4. Understand and implement GANs
+
 5. Understand and implement AutoEncoders
-6. Write an awesome application.
+
+6. Understand and implement NLP fundamentals like word2vec, ngram models and familiarize with nltk and other libraries.
+
+7. How to effectively employ GPUs for training purposes.
+
+6. Write an application.
 It is expected to learn and discover new tools for efficient and easy implementation of the above along the way. This includes coming
-across frameworks such as Keras, Theano, Lua, scipy, Pandas, etc.
+across frameworks such as Keras, Theano, Tensor Flow, Lua, scipy, Pandas, numpy, Chainer.
+
+REINFORCEMENT LEARNING
 
 This document will be regularly updated providing more concreteness about particular topics under each major subpoint.
