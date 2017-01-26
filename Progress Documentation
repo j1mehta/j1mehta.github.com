@@ -22,7 +22,7 @@ SUPERVISED LEARNING
 
 8. How to effectively employ GPUs for training purposes.
 
-9. Write an application.
+9. Write an application. Learn to use CUDA for optimization.
 It is expected to learn and discover new tools for efficient and easy implementation of the above along the way. This includes coming
 across frameworks such as Keras, Theano, Tensor Flow, Lua, scipy, Pandas, numpy, Chainer.
 
